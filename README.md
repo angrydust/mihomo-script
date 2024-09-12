@@ -1,3 +1,2 @@
-# mihomo-script
+# mihomo扩展脚本
 
-## mihomo扩展脚本
